@@ -1,0 +1,8 @@
+{
+  "name": "gathered-checkout-backend",
+  "version": "1.0.0",
+  "description": "Stripe checkout backend for the Gathered storefront",
+  "dependencies": {
+    "stripe": "^14.25.0"
+  }
+}
